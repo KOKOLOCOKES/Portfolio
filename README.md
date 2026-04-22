@@ -53,8 +53,8 @@
 
 - 프로젝트 상세 설명
     
-    https://github.com/boostcampaitech7/level4-cv-finalproject-hackathon-cv-05-lv3
-    https://slash-english-359.notion.site/HiBookGLOVA-4665f5a0215f4f44bd140bbb2a35026c?pvs=143
+  https://github.com/boostcampaitech7/level4-cv-finalproject-hackathon-cv-05-lv3
+  https://slash-english-359.notion.site/HiBookGLOVA-4665f5a0215f4f44bd140bbb2a35026c?pvs=143
     
 
 
