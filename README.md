@@ -40,6 +40,7 @@
 - 결과
     
     https://youtu.be/i-Izg7rl5j4
+
     
 
 ## 2. Hi Book GLOVA - 개인 맞춤형 책 추천 서비스
@@ -53,9 +54,9 @@
 - 프로젝트 상세 설명
     
     https://github.com/boostcampaitech7/level4-cv-finalproject-hackathon-cv-05-lv3
+    https://slash-english-359.notion.site/HiBookGLOVA-4665f5a0215f4f44bd140bbb2a35026c?pvs=143
     
-    ‣ 
-    
+
 
 ## 3. Ms.Pacman 이미지 기반 학습 연구
 
@@ -76,6 +77,7 @@
 - 깃허브
     
     https://github.com/KOKOLOCOKES/Ms.Pacman_img_practice
+
     
 
 ## 4. Ice Shooting - 하이퍼 캐주얼 게임 개발
@@ -96,6 +98,7 @@
 - 깃허브
     
     https://github.com/KOKOLOCOKES/Ice-Shooting-APK
+
     
 
 ## 5. 영향력 분포도를 적용한 오목 AI 개발
@@ -107,6 +110,7 @@
 - 깃허브
     
     https://github.com/KOKOLOCOKES/gokumok
+
     
 
 # 📱Contact
